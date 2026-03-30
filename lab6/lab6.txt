@@ -1,1 +1,8 @@
+Zadanie 1
+Odpowiedź: Zysk anteny odbiornika wynosi około 49,19 dB, a moc odebranego sygnału to około 1,42 * 10^-7 W.
 
+Zadanie 2
+Odpowiedź: Wartość średnia straty sygnału to 91,53 dB. Moc odebranego sygnału wynosi -73,51 dBW (około 4,45 * 10^-8 W).
+
+Zadanie 3
+Odpowiedź: Moc odebranego sygnału wynosi około 8,79 * 10^-10 W.
