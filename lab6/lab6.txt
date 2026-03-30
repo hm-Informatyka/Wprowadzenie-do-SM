@@ -6,3 +6,30 @@ Odpowiedź: Wartość średnia straty sygnału to 91,53 dB. Moc odebranego sygna
 
 Zadanie 3
 Odpowiedź: Moc odebranego sygnału wynosi około 8,79 * 10^-10 W.
+
+Zadanie 4
+Odpowiedź: Sygnały wielodrogowe można rozróżnić i przetwarzać stosując korektory (equalizers), odbiorniki RAKE (w CDMA) lub technologię OFDM. Współczynnik przekraczania progu wynosi około 94,9 razy na sekundę.
+
+Zadanie 5
+Odpowiedź: Współczynnik tłumienia sygnału wynosi około 29,6 na sekundę.
+
+Zadanie 6
+Odpowiedź: Czas trwania tłumienia sygnału wynosi około 0,454 mikrosekundy (4,54 * 10^-7 s).
+
+Zadanie 7
+Odpowiedź: W przestrzeni bez przeszkód moc spada przewidywalnie (proporcjonalnie do kwadratu odległości). Pomiędzy przeszkodami występuje zjawisko wielodrogowości, które powoduje dodatkowe szybkie i wolne zaniki (fading) mocy sygnału.
+
+Zadanie 8
+Odpowiedź: Wolne tłumienie (shadowing/slow fading) to powolny spadek mocy spowodowany zasłanianiem przez duże obiekty. Szybkie tłumienie (fast fading) to gwałtowne wahania amplitudy na krótkich dystansach, spowodowane nakładaniem się wielu odbitych fal (interferencja).
+
+Zadanie 9
+Odpowiedź: Odbiornik odbiera sygnał poza zasięgiem wzroku dzięki zjawiskom odbicia, rozproszenia (scattering) i ugięcia (dyfrakcji) fal elektromagnetycznych na przeszkodach.
+
+Zadanie 10
+Odpowiedź: Częstotliwość (przesunięcie) Dopplera wynosi około 33,36 Hz.
+
+Zadanie 11
+Odpowiedź: 
+a) Zbliżanie: 900 000 041,71 Hz
+b) Oddalanie: 899 999 958,29 Hz
+c) Pod kątem 60°: 900 000 020,85 Hz (jeśli się zbliża) lub 899 999 979,15 Hz (jeśli się oddala).
