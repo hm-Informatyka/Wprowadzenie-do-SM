@@ -1,1 +1,41 @@
+Zadanie 1
 
+Komórka w kształcie ośmiokąta lepiej przypomina koło niż sześciokąt. Mimo tego nie jest używana w sieciach komórkowych, ponieważ ośmiokąty nie pokrywają całej powierzchni bez pozostawiania pustych miejsc. Sześciokąty pozwalają łatwo planować sieć i częstotliwości.
+
+Zadanie 2
+
+Klaster sieci komórkowej składa się z 7 komórek. Odległość wykorzystania oblicza się ze wzoru D = √(3N) · R. Po podstawieniu N = 7 otrzymujemy D ≈ 4.58R. Oznacza to, że komórki używające tych samych częstotliwości znajdują się w odległości około 4.58 promienia komórki.
+
+Numery komórek klastra mogą być oznaczone kolejno jako: 1, 2, 3, 4, 5, 6 i 7. Interferencja współkanałowa jest największa w pobliżu granicy komórki, ponieważ w tym miejscu sygnały z innych stacji bazowych mają największy wpływ na połączenie.
+
+Zadanie 3
+
+Kanał jest wykorzystywany średnio przez 15 minut, a liczba rozmów w ciągu godziny wynosi 60. Natężenie ruchu oblicza się w Erlangach. W tym przypadku obciążenie sieci wynosi 15 Erlangów.
+
+Zadanie 4
+
+Taka architektura sieci mogła zostać zastosowana z powodu dużej liczby użytkowników oraz potrzeby zwiększenia pojemności sieci. Ważne było również ograniczenie zakłóceń oraz poprawa jakości sygnału. Dodatkowo wpływ mogły mieć przeszkody terenowe i budynki.
+
+Zadanie 5
+
+W metrze sygnał radiowy jest tłumiony przez tunele i ściany. Dlatego stosuje się większą liczbę małych komórek oraz dodatkowe stacje bazowe. Pozwala to zapewnić stabilne połączenie podczas przemieszczania się pociągu.
+
+Zadanie 6
+
+Tak, taka zamiana jest możliwa. Klaster 16-komórkowy można zastąpić dwoma mniejszymi klastrami składającymi się z 7 i 9 komórek. Pozwala to lepiej dostosować sieć do obciążenia.
+
+Zadanie 8
+
+Łączna liczba rozmów we wszystkich komórkach wynosi 21700. Średni czas jednej rozmowy wynosił 1 minutę, dlatego całkowite obciążenie sieci wynosi około 361.67 Erlanga. Dla klastra składającego się z 12 komórek odległość wykorzystania wynosi około 30 km. Liczba abonentów poruszających się samochodami wynosi około 16275 użytkowników.
+
+Zadanie 9
+
+Handoff oznacza przeniesienie aktywnego połączenia pomiędzy stacjami bazowymi podczas przemieszczania się użytkownika. Handoff region to obszar, w którym sygnały dwóch komórek nakładają się na siebie. Dzięki temu połączenie nie zostaje przerwane.
+
+Zadanie 10
+
+Interferencja współkanałowa występuje pomiędzy komórkami używającymi tych samych częstotliwości. Interferencja sąsiedniego kanału pojawia się pomiędzy kanałami o zbliżonych częstotliwościach. Oba rodzaje zakłóceń pogarszają jakość połączeń.
+
+Zadanie 11
+
+Podział komórki na sektory pozwala zmniejszyć zakłócenia i zwiększyć pojemność sieci. Dzięki temu możliwa jest obsługa większej liczby użytkowników. Poprawia się również jakość sygnału.
